@@ -1,6 +1,6 @@
 # Notes Management API
 
-A backend REST API built with **Express.js**, **SQLite**, and **JWT** for managing personal notes with authentication and role-based access control made by @neuralsin
+
 
 ## Setup
 
